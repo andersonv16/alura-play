@@ -1,0 +1,22 @@
+{
+  "name": "alura-play",
+  "version": "1.0.0",
+  "description": "Projeto utilizado para criação de site para reprodução de videos do curso da Alura",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andersonv16/alura-play.git"
+  },
+  "author": "Anderson Viana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andersonv16/alura-play/issues"
+  },
+  "homepage": "https://github.com/andersonv16/alura-play#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
